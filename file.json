@@ -8,20 +8,12 @@
             "sources": [
                 "https://windows96.net/system/resource/icons/win96/16x16/misc/logo.png"
             ],
-            "x": 100,
-            "y": 860
+            "x": 977,
+            "y": 551
         }
     ],
     "whitelist": [
-        {
-            "name": "r/hatsune",
-            "url": "https://hatsune.proxnet.dev/place/overlayRaw"
-        }
     ],
     "blacklist": [
-        {
-            "name": "r/omori",
-            "url": "https://raw.githubusercontent.com/sunryze-git/omoriplace2023/main/omoriplace.json"
-        }
     ]
 }
