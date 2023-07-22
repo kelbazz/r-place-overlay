@@ -6,10 +6,10 @@
         {
             "name": "Windows 96 logo",
             "sources": [
-                "https://windows96.net/system/resource/icons/win96/16x16/misc/logo.png"
+                "https://cdn.discordapp.com/attachments/1132315079380045906/1132353561276186835/CyniHz8.png"
             ],
-            "x": 720,
-            "y": 1171
+            "x": 0,
+            "y": 0
         }
     ],
     "whitelist": [
